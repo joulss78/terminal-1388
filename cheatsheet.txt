@@ -1,0 +1,32 @@
+pwd
+=> present working directory (where you are)
+
+ls / ll
+=> shows content inside of folder
+
+cd folder_name
+=> moves to a folder
+
+cd ..
+=> moves back
+
+cd / ~
+=> moves back home
+
+mkdir folder_name
+=> making a folder
+
+touch filename
+=> creates a file
+
+mv filename folder
+=> moves
+
+mv filename new_filename
+=> renames
+
+code .
+=> opens VS code
+
+open . / wslview . / explorer.exe .
+=> open the folder
